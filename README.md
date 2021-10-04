@@ -40,4 +40,27 @@ Write an RScript that creates a lot_summary dataframe using the group_by() and t
 ![Screenshot 2021-10-03 203441](https://user-images.githubusercontent.com/85597990/135781511-2d2f392c-35f3-44b7-a42c-561e872075fc.png)
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
 -
+
+###### Deliverable 3
+###### T-Tests on Suspension Coils
+In your MechaCarChallenge.RScript, write an RScript using the t.test() function to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
+
+![Screenshot 2021-10-03 205721](https://user-images.githubusercontent.com/85597990/135782916-3dec75dc-4379-41d1-8bf2-3929c2e16931.png)
+
+Next, write three more RScripts in your MechaCarChallenge.RScript using the t.test() function and its subset() argument to determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
+
+![Screenshot 2021-10-03 210423](https://user-images.githubusercontent.com/85597990/135783317-99fac51a-2ab7-4344-b71b-18ee21e99a2e.png)
+
+![Screenshot 2021-10-03 210439](https://user-images.githubusercontent.com/85597990/135783329-25aa39f4-afb4-4b19-8842-ab920ae5ec7e.png)
+
+![Screenshot 2021-10-03 210451](https://user-images.githubusercontent.com/85597990/135783339-2921fadb-b4bd-41eb-978e-7db2d953a4d9.png)
+
+briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+-
+
+###### Deliverable 4
+###### Study Design: MechaCar vs Competition
+
+
