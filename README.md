@@ -1,5 +1,5 @@
 # MechaCar_Statistical_Analysis
-"Had a hard time figuring out how to save the RStudio file. Pushed it two different ways.
+Not sure if I was saving the RScript file the right way. Pushed it two different ways.
 
 ## Deliverable 1
 ### Linear Regression to Predict MPG
