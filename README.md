@@ -72,20 +72,4 @@ briefly summarize your interpretation and findings for the t-test results. Inclu
 -
 
 ###### Deliverable 4
-###### Study Design: MechaCar vs Competition
 
-
-=======
-![Screenshot 2021-10-03 193912](https://user-images.githubusercontent.com/85597990/135779181-c74b05e0-001c-4fd4-bdae-b8c82e3fec33.png)
-
-Write an RScript that creates a total_summary dataframe using the summarize() function to get the mean, median, variance, and standard deviation of the suspension coil’s PSI column.
-![Screenshot 2021-10-03 201617](https://user-images.githubusercontent.com/85597990/135780589-427df1e0-9f27-4e7f-92a7-687db5052aca.png)
-![Screenshot 2021-10-03 193912](https://user-images.githubusercontent.com/85597990/135780593-2f9b6914-d43d-48e8-8239-560474421193.png)
-
-Write an RScript that creates a lot_summary dataframe using the group_by() and the summarize() functions to group each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coil’s PSI column.
-![Screenshot 2021-10-03 203430](https://user-images.githubusercontent.com/85597990/135781506-7314252b-5b47-434b-a713-290d1ba9168c.png)
-![Screenshot 2021-10-03 203441](https://user-images.githubusercontent.com/85597990/135781511-2d2f392c-35f3-44b7-a42c-561e872075fc.png)
-
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
--
->>>>>>> Stashed changes
